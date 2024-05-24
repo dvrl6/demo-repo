@@ -8,4 +8,4 @@ Moonie.
 
 ## Local Development
 
-1. Open index.html in yout browser
+1. Open index.html in your browser
